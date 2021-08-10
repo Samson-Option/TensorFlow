@@ -1,7 +1,7 @@
 setwd("D:/RLabs")
 imdb<-read.csv("D:/RLabs/group/IMDb movies.csv",  header=TRUE)
 colnames(imdb)
-
+#IMDB DATASET
 dimdb<-allimdb
 colnames(dimdb)
 
